@@ -1,5 +1,0 @@
-partlist
-- esp32-Nodemcu
-- waveshare 2.42" oled display
-- wires
-- sensor for temperature & humidity
